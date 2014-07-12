@@ -1,0 +1,792 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fsre",
+				"fs.readFile"
+			],
+			[
+				"tog",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"get",
+				"getjson	$.getjson()"
+			],
+			[
+				"aj",
+				"ajax	$.ajax()"
+			],
+			[
+				"tim",
+				"timers.setInterval(callback, repeat);"
+			],
+			[
+				"nav",
+				"nav	Tag"
+			],
+			[
+				"accordio",
+				"accordion2"
+			],
+			[
+				"te",
+				"text	.text"
+			],
+			[
+				"ap",
+				"append	.append"
+			],
+			[
+				"div",
+				"divclass"
+			],
+			[
+				"ad",
+				"add	add"
+			],
+			[
+				"ea",
+				"each	.each()"
+			],
+			[
+				"test",
+				"testArray"
+			],
+			[
+				"bacgr",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "This project is a test bed for Js technologies, MongoDB, git and  github.  Primarily used for learning.\n\nTaskList\n\nCurrent  Stories\n - Save on github\n - Create NodeJS express web server shell\n - Create Client Durandal/Jquery/Rafael single page shell. \n - Create basic Mocha Tests and setup automatic tests\n - Start Backlog stories\n\n Backlog\n",
+			"file": "Doc/SprintBacklog",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 341,
+				"line_ending": "Windows",
+				"name": "This project is a test bed for Js technologies, Mo"
+			}
+		},
+		{
+			"contents": "    ____  __            ____                ___   ____ _____ __\n   / __ \\/ /___ ___  __/ __ )____  _  __   |__ \\ / __ <  / // /\n  / /_/ / / __ `/ / / / __  / __ \\| |/_/   __/ // / / / / // /_\n / ____/ / /_/ / /_/ / /_/ / /_/ />  <    / __// /_/ / /__  __/\n/_/   /_/\\__,_/\\__, /_____/\\____/_/|_|   /____/\\____/_/  /_/   \n              /____/                                           \n\nThis project is a test bed for Js technologies, MongoDB, git and  github.  Primarily used for learning.\n\nTaskList\n\nCurrent  Stories\n - Save on github\n - Create NodeJS express web server shell\n - Create Client Durandal/Jquery/Rafael single page shell. \n - Create basic Mocha Tests and setup automatic tests\n - Start Backlog stories\n\n Backlog\n",
+			"file": "Doc/SprintBacklog.txt",
+			"file_size": 353,
+			"file_write_time": 130496118059362553,
+			"settings":
+			{
+				"buffer_size": 726,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Walters/AppData/Roaming/Sublime Text 3/Packages/User/Github Tools.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 81,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Nodejs/Nodejs.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"gut",
+				"Github: Plugin Settings"
+			],
+			[
+				"git",
+				"Github: Pull Requests"
+			],
+			[
+				"",
+				"ASCII Decorator: Default Font"
+			],
+			[
+				"asci",
+				"ASCII Decorator: Generate Font Test"
+			],
+			[
+				"sublimecode",
+				"SublimeCodeIntel: Reset"
+			],
+			[
+				"set java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"packa in",
+				"Package Control: Install Package"
+			],
+			[
+				"set synt javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html boi",
+				"Snippet: Simple HTML5 Boilerplate"
+			],
+			[
+				"snip",
+				"Snippet: prototype"
+			],
+			[
+				"set synt java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"open f",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"oen fil",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"open",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"nodejs",
+				"Nodejs::User File Settings"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"jq",
+				"Snippet: jQuery.type"
+			],
+			[
+				"packag inst	",
+				"Package Control: Install Package"
+			],
+			[
+				"pack d",
+				"Package Control: Discover Packages"
+			],
+			[
+				"package inst",
+				"Package Control: Install Package"
+			],
+			[
+				"sear",
+				"Stackoverflow: Search Selection"
+			],
+			[
+				"search",
+				"Stackoverflow: Search Selection"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"asc",
+				"ASCII Decorator: Default Font"
+			],
+			[
+				"ascii",
+				"ASCII Decorator: Generate Font Test"
+			],
+			[
+				"as",
+				"ASCII Decorator: Font Selector"
+			],
+			[
+				"pack inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"syn java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"synJ",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"syn",
+				"Set Syntax: HTML5"
+			],
+			[
+				"syn jq",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"syt jq",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"html",
+				"Set Syntax: HTML5"
+			],
+			[
+				"sy",
+				"Set Syntax: HTML5"
+			],
+			[
+				"setsy jquer",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"setsyn h",
+				"Set Syntax: HTML5"
+			],
+			[
+				"setsy jqu",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"synhtml",
+				"Set Syntax: HTML5"
+			],
+			[
+				"setsyt jq",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"setsyn jq",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"setsty htm",
+				"Set Syntax: HTML5"
+			],
+			[
+				"snippet goo",
+				"Snippet: Google AJAX Libraries: jQuery UI"
+			],
+			[
+				"set s ht",
+				"Set Syntax: HTML5"
+			],
+			[
+				"set synjq",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"setsyn jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pakc",
+				"Package Control: Enable Package"
+			],
+			[
+				"set sy jq",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"setsy css",
+				"Set Syntax: CSS"
+			],
+			[
+				"snipp styl",
+				"Snippet: <style>"
+			],
+			[
+				"snipp jq",
+				"Snippet: Google AJAX Libraries: jQuery"
+			],
+			[
+				"SET",
+				"Set Syntax: HTML"
+			],
+			[
+				"set syntax ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"TestThis.html",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"package control"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/c/users/walters/appdata/local/temp/tmprda_v7.txt",
+		"/D/Documents/JQueryTests/js/MyApp.js",
+		"/D/Documents/JQueryTests/ProtoTest.html",
+		"/D/Documents/JQueryTests/public/myscripts.js",
+		"/D/Documents/JQueryTests/TestThis.html",
+		"/D/Program Files (x86)/Heroes of the Storm/.build.info",
+		"/C/Users/Walters/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/Documents/JQueryTests/server.js",
+		"/D/Documents/JQueryTests/npm-debug.log",
+		"/D/Documents/JQueryTests/package.json",
+		"/C/Users/Walters/AppData/Roaming/Sublime Text 3/Packages/User/Nodejs.sublime-settings",
+		"/D/Documents/JQueryTests/myscripts.js",
+		"/C/ProgramData/NTUser.dat.LOG1",
+		"/c/users/walters/appdata/local/temp/tmppx6m6e.txt",
+		"/c/users/walters/appdata/local/temp/tmpwmuy65.txt",
+		"/D/Documents/JQueryTests/Themes/jquery-ui-1.10.4.custom/index.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Checkins",
+			"testArray",
+			"ready",
+			"function",
+			"append",
+			">');\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Doc/SprintBacklog",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 341,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								131,
+								131
+							]
+						],
+						"settings":
+						{
+							"auto_name": "This project is a test bed for Js technologies, Mo",
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Doc/SprintBacklog.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 726,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								726,
+								726
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Walters/AppData/Roaming/Sublime Text 3/Packages/User/Github Tools.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 81,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								73,
+								73
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.figlet_preview":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "PlayBox.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 150.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
