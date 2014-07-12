@@ -3,8 +3,8 @@ This project is a test bed for Js technologies, MongoDB, git and  github.  Prima
 TaskList
 
 Current  Stories
- - Save on github
- - Create NodeJS express web server shell
+ X Save on github
+ X Create NodeJS express web server shell
  - Create Client Durandal/Jquery/Rafael single page shell. 
  - Create basic Mocha Tests and setup automatic tests
  - Start Backlog stories
