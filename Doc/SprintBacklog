@@ -6,6 +6,7 @@ Current  Stories
  X Save on github
  X Create NodeJS express web server shell
  - Create Client Durandal/Jquery/Rafael single page shell. 
+ - Wire up NODE to return any file in the Client directory
  - Create basic Mocha Tests and setup automatic tests
  - Start Backlog stories
 
